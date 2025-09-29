@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#222831"/>
+      <stop offset="1" stop-color="#00adb5"/>
+    </linearGradient>
+    <style>
+      .brand { font-family: 'Montserrat', sans-serif; font-weight:700; letter-spacing:0.06em; }
+      .mark { fill: url(#g); }
+      .word { fill:#222831; font-size:64px; }
+    </style>
+  </defs>
+  <g transform="translate(40,24)">
+    <g class="mark">
+      <path d="M30 130 L62 20 L94 130 L77 130 L77 110 L49 110 L49 130 Z" opacity="1"/>
+      <path d="M130 130 L162 20 L194 130 L177 130 L177 110 L149 110 L149 130 Z" opacity="0.85" transform="translate(40,0)"/>
+      <path d="M95 85 C120 40, 150 40, 175 85" stroke="rgba(0,0,0,0.06)" stroke-width="10" fill="none" stroke-linecap="round"/>
+    </g>
+    <text x="260" y="110" class="brand word">VEARASIC</text>
+  </g>
+</svg>

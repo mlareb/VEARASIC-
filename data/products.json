@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "sku": "V-0001",
+    "name": "VEARASIC Linen Shirt - Ivory",
+    "description": "Light linen shirt, breathable summer wear",
+    "brand": "VEARASIC",
+    "price": 999.0,
+    "images": [
+      "/assets/p1-1.jpg",
+      "/assets/p1-2.jpg"
+    ],
+    "tags": [
+      "linen",
+      "shirt",
+      "men",
+      "summer"
+    ],
+    "attributes": {
+      "color": [
+        "ivory"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "sku": "V-0002",
+    "name": "VEARASIC Denim Jacket - Washed Blue",
+    "description": "Classic denim jacket with modern fit",
+    "brand": "VEARASIC",
+    "price": 2499.0,
+    "images": [
+      "/assets/p2-1.jpg"
+    ],
+    "tags": [
+      "denim",
+      "jacket",
+      "unisex"
+    ],
+    "attributes": {
+      "color": [
+        "blue"
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "sku": "V-0003",
+    "name": "VEARASIC Knit Beanie - Charcoal",
+    "description": "Cozy knitted beanie",
+    "brand": "VEARASIC",
+    "price": 399.0,
+    "images": [
+      "/assets/p3-1.jpg"
+    ],
+    "tags": [
+      "beanie",
+      "winter",
+      "accessory"
+    ],
+    "attributes": {
+      "color": [
+        "charcoal"
+      ],
+      "sizes": []
+    }
+  }
+]
